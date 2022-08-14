@@ -1,0 +1,3 @@
+D:/Coding/STRIVER-SDE-SHEET/Subarray_with_given_XOR/cmake-build-debug/CMakeFiles/Subarray_with_given_XOR.dir
+D:/Coding/STRIVER-SDE-SHEET/Subarray_with_given_XOR/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coding/STRIVER-SDE-SHEET/Subarray_with_given_XOR/cmake-build-debug/CMakeFiles/rebuild_cache.dir
