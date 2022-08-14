@@ -7,4 +7,4 @@
 /dataSources/
 /dataSources.local.xml
 # Customized folders/files
-/cmake-build-debug
+/cmake-build-debug/
