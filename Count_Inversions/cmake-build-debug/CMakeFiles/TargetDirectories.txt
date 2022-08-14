@@ -1,3 +1,0 @@
-D:/Coding/STRIVER-SDE-SHEET/Count_Inversions/cmake-build-debug/CMakeFiles/Count_Inversions.dir
-D:/Coding/STRIVER-SDE-SHEET/Count_Inversions/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Coding/STRIVER-SDE-SHEET/Count_Inversions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
