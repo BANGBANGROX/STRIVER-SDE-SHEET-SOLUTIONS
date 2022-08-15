@@ -1,0 +1,3 @@
+D:/Coding/STRIVER-SDE-SHEET/Minimum_Platforms/cmake-build-debug/CMakeFiles/Minimum_Platforms.dir
+D:/Coding/STRIVER-SDE-SHEET/Minimum_Platforms/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coding/STRIVER-SDE-SHEET/Minimum_Platforms/cmake-build-debug/CMakeFiles/rebuild_cache.dir

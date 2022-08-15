@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Merge_Two_Sorted_Lists",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Merge_Two_Sorted_Lists::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Merge_Two_Sorted_Lists-Debug-21226fc51cc267a5ec71.json",
+					"name" : "Merge_Two_Sorted_Lists",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Coding/STRIVER-SDE-SHEET/Merge_Two_Sorted_Lists/cmake-build-debug",
+		"source" : "D:/Coding/STRIVER-SDE-SHEET/Merge_Two_Sorted_Lists"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
