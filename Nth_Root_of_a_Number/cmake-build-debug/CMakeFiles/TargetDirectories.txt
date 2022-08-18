@@ -1,0 +1,3 @@
+D:/Coding/STRIVER-SDE-SHEET/Nth_Root_of_a_Number/cmake-build-debug/CMakeFiles/Nth_Root_of_a_Number.dir
+D:/Coding/STRIVER-SDE-SHEET/Nth_Root_of_a_Number/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coding/STRIVER-SDE-SHEET/Nth_Root_of_a_Number/cmake-build-debug/CMakeFiles/rebuild_cache.dir

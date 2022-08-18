@@ -1,0 +1,3 @@
+D:/Coding/STRIVER-SDE-SHEET/Permutations/cmake-build-debug/CMakeFiles/Permutations.dir
+D:/Coding/STRIVER-SDE-SHEET/Permutations/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coding/STRIVER-SDE-SHEET/Permutations/cmake-build-debug/CMakeFiles/rebuild_cache.dir

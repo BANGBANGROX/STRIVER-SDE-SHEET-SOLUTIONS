@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Rat_in_a_Maze_Problem_I",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Rat_in_a_Maze_Problem_I::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Rat_in_a_Maze_Problem_I-Debug-c0649659fe1b7d85ab07.json",
+					"name" : "Rat_in_a_Maze_Problem_I",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Coding/STRIVER-SDE-SHEET/Rat_in_a_Maze_Problem_I/cmake-build-debug",
+		"source" : "D:/Coding/STRIVER-SDE-SHEET/Rat_in_a_Maze_Problem_I"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
