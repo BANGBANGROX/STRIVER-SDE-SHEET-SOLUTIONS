@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Find_the_maximum_of_minimums_of_every_window_size/Find_the_maximum_of_minimums_of_every_window_size.iml" filepath="$PROJECT_DIR$/Find_the_maximum_of_minimums_of_every_window_size/Find_the_maximum_of_minimums_of_every_window_size.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LFU_Cache/LFU_Cache.iml" filepath="$PROJECT_DIR$/LFU_Cache/LFU_Cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Largest_Rectangle_in_Histogram/Largest_Rectangle_in_Histogram.iml" filepath="$PROJECT_DIR$/Largest_Rectangle_in_Histogram/Largest_Rectangle_in_Histogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Min_Stack/Min_Stack.iml" filepath="$PROJECT_DIR$/Min_Stack/Min_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Online_Stock_Span/Online_Stock_Span.iml" filepath="$PROJECT_DIR$/Online_Stock_Span/Online_Stock_Span.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rotting_Oranges/Rotting_Oranges.iml" filepath="$PROJECT_DIR$/Rotting_Oranges/Rotting_Oranges.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/STRIVER-SDE-SHEET.iml" filepath="$PROJECT_DIR$/.idea/STRIVER-SDE-SHEET.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding_Window_Maximum/Sliding_Window_Maximum.iml" filepath="$PROJECT_DIR$/Sliding_Window_Maximum/Sliding_Window_Maximum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/The_Celebrity_Problem/The_Celebrity_Problem.iml" filepath="$PROJECT_DIR$/The_Celebrity_Problem/The_Celebrity_Problem.iml" />
     </modules>
   </component>
 </project>
