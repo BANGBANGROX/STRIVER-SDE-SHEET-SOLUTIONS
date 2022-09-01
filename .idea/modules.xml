@@ -2,13 +2,27 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/0_1_Knapsack_Problem/0_1_Knapsack_Problem.iml" filepath="$PROJECT_DIR$/0_1_Knapsack_Problem/0_1_Knapsack_Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coin_Change/Coin_Change.iml" filepath="$PROJECT_DIR$/Coin_Change/Coin_Change.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Edit_Distance/Edit_Distance.iml" filepath="$PROJECT_DIR$/Edit_Distance/Edit_Distance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Egg_Dropping_Puzzle/Egg_Dropping_Puzzle.iml" filepath="$PROJECT_DIR$/Egg_Dropping_Puzzle/Egg_Dropping_Puzzle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Find_the_maximum_of_minimums_of_every_window_size/Find_the_maximum_of_minimums_of_every_window_size.iml" filepath="$PROJECT_DIR$/Find_the_maximum_of_minimums_of_every_window_size/Find_the_maximum_of_minimums_of_every_window_size.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Job_Sequencing_Problem/Job_Sequencing_Problem.iml" filepath="$PROJECT_DIR$/Job_Sequencing_Problem/Job_Sequencing_Problem.iml" />
       <module fileurl="file://$PROJECT_DIR$/LFU_Cache/LFU_Cache.iml" filepath="$PROJECT_DIR$/LFU_Cache/LFU_Cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/Largest_Rectangle_in_Histogram/Largest_Rectangle_in_Histogram.iml" filepath="$PROJECT_DIR$/Largest_Rectangle_in_Histogram/Largest_Rectangle_in_Histogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/Longest_Common_Prefix/Longest_Common_Prefix.iml" filepath="$PROJECT_DIR$/Longest_Common_Prefix/Longest_Common_Prefix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Longest_Common_Subsequence/Longest_Common_Subsequence.iml" filepath="$PROJECT_DIR$/Longest_Common_Subsequence/Longest_Common_Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Longest_Increasing_Subsequence/Longest_Increasing_Subsequence.iml" filepath="$PROJECT_DIR$/Longest_Increasing_Subsequence/Longest_Increasing_Subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/Longest_Palindromic_Substring/Longest_Palindromic_Substring.iml" filepath="$PROJECT_DIR$/Longest_Palindromic_Substring/Longest_Palindromic_Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrix_Chain_Multiplication/Matrix_Chain_Multiplication.iml" filepath="$PROJECT_DIR$/Matrix_Chain_Multiplication/Matrix_Chain_Multiplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maximum_Product_Subarray/Maximum_Product_Subarray.iml" filepath="$PROJECT_DIR$/Maximum_Product_Subarray/Maximum_Product_Subarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maximum_sum_increasing_subsequence/Maximum_sum_increasing_subsequence.iml" filepath="$PROJECT_DIR$/Maximum_sum_increasing_subsequence/Maximum_sum_increasing_subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/Min_Stack/Min_Stack.iml" filepath="$PROJECT_DIR$/Min_Stack/Min_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Minimum_Cost_to_Cut_a_Stick/Minimum_Cost_to_Cut_a_Stick.iml" filepath="$PROJECT_DIR$/Minimum_Cost_to_Cut_a_Stick/Minimum_Cost_to_Cut_a_Stick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Minimum_Path_Sum/Minimum_Path_Sum.iml" filepath="$PROJECT_DIR$/Minimum_Path_Sum/Minimum_Path_Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Online_Stock_Span/Online_Stock_Span.iml" filepath="$PROJECT_DIR$/Online_Stock_Span/Online_Stock_Span.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindromic_Partitioning/Palindromic_Partitioning.iml" filepath="$PROJECT_DIR$/Palindromic_Partitioning/Palindromic_Partitioning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Partition_Equal_Subset_Sum/Partition_Equal_Subset_Sum.iml" filepath="$PROJECT_DIR$/Partition_Equal_Subset_Sum/Partition_Equal_Subset_Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reverse_Words_in_a_String/Reverse_Words_in_a_String.iml" filepath="$PROJECT_DIR$/Reverse_Words_in_a_String/Reverse_Words_in_a_String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Roman_to_Integer/Roman_to_Integer.iml" filepath="$PROJECT_DIR$/Roman_to_Integer/Roman_to_Integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Rotting_Oranges/Rotting_Oranges.iml" filepath="$PROJECT_DIR$/Rotting_Oranges/Rotting_Oranges.iml" />
@@ -16,6 +30,7 @@
       <module fileurl="file://$PROJECT_DIR$/Sliding_Window_Maximum/Sliding_Window_Maximum.iml" filepath="$PROJECT_DIR$/Sliding_Window_Maximum/Sliding_Window_Maximum.iml" />
       <module fileurl="file://$PROJECT_DIR$/String_to_Integer_atoi/String_to_Integer_atoi.iml" filepath="$PROJECT_DIR$/String_to_Integer_atoi/String_to_Integer_atoi.iml" />
       <module fileurl="file://$PROJECT_DIR$/The_Celebrity_Problem/The_Celebrity_Problem.iml" filepath="$PROJECT_DIR$/The_Celebrity_Problem/The_Celebrity_Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Word_Break/Word_Break.iml" filepath="$PROJECT_DIR$/Word_Break/Word_Break.iml" />
     </modules>
   </component>
 </project>
